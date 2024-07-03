@@ -109,7 +109,7 @@ public:
 		return wynik - (wynik * 0.3);
 	}
 };
-Samochod* Samochod::m_wzorcowa = nullptr; //Wybor przez funkcje statyczn¹
+Samochod* Samochod::m_wzorcowa = nullptr; //Wybor przez funkcje statyczna
 int main()
 {
 }
