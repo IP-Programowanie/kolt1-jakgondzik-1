@@ -7,7 +7,7 @@ using namespace std;
 */
 
 #ifdef Kol_2
-
+class 
 int main()
 {
 
